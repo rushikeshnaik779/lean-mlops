@@ -2,4 +2,4 @@ hello :
 	echo "Make hello command"
 
 test: 
-	pip3 install spacy
+	echo "will try to install something here!"
